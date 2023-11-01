@@ -18,6 +18,9 @@ export default function Home() {
                     boundary-pushing designs. Walk the talk of cool.</h2>
                 <img className="shoes-img" src={myImage2} />
             </div>
+            <div>
+
+            </div>
         </div>
 
 
